@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+.footer{
+    font-family: 'Righteous', cursive;
+}
+
+.desc-footer{
+    font-size: 0.5rem;
+}
